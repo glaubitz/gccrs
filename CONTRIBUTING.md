@@ -30,6 +30,7 @@
   - An exception to this rule will be the merge commits of updating the repo against upstream GCC
 
 * Patches sent via email are welcome, these will be subject to the same Copyright Assignment standards. Each patch will be formed into a GitHub PR to follow the normal bos process.
+You can send those patches through the gcc-rust mailing list: gcc-rust@gcc.gnu.org
 
 * Reviewers/Maintainers of the project (aka people who have bors rights) should be pinged for reviews/questions.
 
